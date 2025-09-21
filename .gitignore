@@ -1,4 +1,1 @@
-compile_commands.json
-build/*/kernel
-.cache/clangd
-*.o
+.cache
