@@ -1,4 +1,4 @@
-#include <machine/platform.h>
+#include <platform.h>
 
 void
 kernelMain(void)

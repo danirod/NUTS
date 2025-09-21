@@ -1,4 +1,4 @@
-#include <machine/platform.h>
+#include <platform.h>
 #include <stdint.h>
 
 #define VIDEO_BUFFER 0xb8000
